@@ -33,5 +33,3 @@ Este é um projeto de site responsivo composto por quatro páginas HTML: página
 [FontAwesome](https://fontawesome.com/)  
 [ScrollReveal](https://scrollrevealjs.org/)
 
-### Licença
-Este projeto está licenciado sob a **MIT License**.
